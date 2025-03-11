@@ -3,11 +3,6 @@
 	
 	"msd1_town"
 	{
-		//"start_point"       "-2379.359863 10833.366211 409.579590"
-		//"end_point"         "-3739.969238 -63.853954 126.031250"
-		//"start_dist"		"50.000000"
-		//"start_extra_dist"	"0.000000"
-		//"end_dist"			"150.000000"
 		"tank_ban_flow"
 		{
 			"after 62"
@@ -25,11 +20,6 @@
 	
 	"msdnew_tccity_newway"
 	{
-		"start_point"       "-11904.84 -5010.49 -204.94"
-		//"end_point"         "-3739.969238 -63.853954 126.031250"
-		//"start_dist"		"50.000000"
-		//"start_extra_dist"	"0.000000"
-		//"end_dist"			"150.000000"
 		"ItemLimits"
 		{
 			"pain_pills"	"4"
@@ -51,11 +41,6 @@
 	
 	"msd3_square"
 	{
-		//"start_point"       "-2379.359863 10833.366211 409.579590"
-		//"end_point"         "-3739.969238 -63.853954 126.031250"
-		//"start_dist"		"50.000000"
-		//"start_extra_dist"	"0.000000"
-		//"end_dist"			"150.000000"
 		"ItemLimits"
 		{
 			"pain_pills"	"4"
