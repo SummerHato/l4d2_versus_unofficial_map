@@ -8,8 +8,8 @@
 
 服务器需放置的三方图链接,客户端可以用工坊原版:
 
-伦理问题对抗版:https://cloud.06dn.com/s/pw0ycg
+[伦理问题对抗版](https://cloud.06dn.com/s/pw0ycg)
 
-再见了晨茗对抗版:https://cloud.06dn.com/s/BY6Jcw
+[再见了晨茗对抗版](https://cloud.06dn.com/s/BY6Jcw)
 
-广州增城:https://steamcommunity.com/sharedfiles/filedetails/?id=2396847377
+[广州增城](https://steamcommunity.com/sharedfiles/filedetails/?id=2396847377)
