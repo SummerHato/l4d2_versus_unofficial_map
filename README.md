@@ -10,6 +10,6 @@
 
 [伦理问题对抗版](https://cloud.06dn.com/s/pw0ycg)
 
-[再见了晨茗对抗版](https://cloud.06dn.com/s/BY6Jcw)
+[再见了晨茗对抗版](https://cloud.06dn.com/s/BY8DTw)
 
 [广州增城](https://steamcommunity.com/sharedfiles/filedetails/?id=2396847377)
