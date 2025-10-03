@@ -1,4 +1,4 @@
-在zonemod药抗中对某些三方图做平衡性适配文件修改
+在zonemod药抗中对某些三方图做平衡性适配文件修改(瞎改着玩的)
 
 **注意:!!!!!!文件不要直接覆盖,复制粘贴里面的内容放到合适的位置!!!!!!**
 
@@ -8,8 +8,8 @@
 
 服务器需放置的三方图链接,客户端可以用工坊原版:
 
-[伦理问题对抗版](https://cloud.06dn.com/s/pw0ycg)
+[伦理问题](https://cloud.06dn.com/s/pw0ycg)
 
-[再见了晨茗对抗版](https://cloud.06dn.com/s/BY8DTw)
+[再见了晨茗](https://cloud.06dn.com/s/BY8DTw)
 
 [广州增城](https://steamcommunity.com/sharedfiles/filedetails/?id=2396847377)
